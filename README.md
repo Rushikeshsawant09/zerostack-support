@@ -3,7 +3,7 @@
 A high-performance, serverless incident management and tracking hub built for cloud operations. This platform captures user technical failures at the edge and handles low-latency persistence into a distributed NoSQL database cluster.
 
 ## 🚀 Live Links
-* **Production Deployment:** [zerostack-support-8s93kl3md-rushikeshsawant09s-projects.vercel.app]
+* **Production Deployment:** [ zerostack-support-8s93kl3md-rushikeshsawant09s-projects.vercel.app ]
 * **Cloud Storage Node:** Amazon DynamoDB (Mumbai Region - `ap-south-1`)
 
 ## 🛠️ The Cloud Architecture
